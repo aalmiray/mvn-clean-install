@@ -1,0 +1,5 @@
+A collection of Maven related memes.
+
+Posted by link:https://twitter.com/aalmiray[@aalmiray] on Twitter at random intervals.
+
+Friends don't let friends call `mvn clean install`.
